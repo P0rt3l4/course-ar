@@ -1,1 +1,6 @@
-Estamos empezando con GIT.
+Soy una persona de 28 años.
+
+Tengo la universidad terminada desde el 2013, lo cual tengo 7 años de carrera profesional.
+Pero me dedique al desarrollo hace 5 año, lo cual desde entonces he estado en constante aprendizaje.
+El primer lenguaje que aprend fue PHP, el cual lo aprendi desde un libro qeue me lei mientra trababaja de
+held-desk.
